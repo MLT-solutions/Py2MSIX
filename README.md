@@ -1,7 +1,7 @@
 # Py2MSIX - Python to App Store Packager
 A simple solution to compile exe &amp; sign it into MSIX format for MS Store submission
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Platform](https://img.shields.io/badge/platform-Windows-blue) ![Python](https://img.shields.io/badge/python-3.x-yellow)
+![Platform](https://img.shields.io/badge/platform-Windows-blue) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
 <img width="1233" height="662" alt="Screenshot 2025-12-05 223827" src="https://github.com/user-attachments/assets/2118539c-cf78-4a18-9d8a-730d9285340a" />
 
