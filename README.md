@@ -3,7 +3,8 @@ A simple solution to compile exe &amp; sign it into MSIX format for MS Store sub
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue) ![Python](https://img.shields.io/badge/python-3.x-yellow)
 
-<img width="1233" height="662" alt="Screenshot 2025-12-05 223827" src="https://github.com/user-attachments/assets/2118539c-cf78-4a18-9d8a-730d9285340a" />
+
+<img width="1479" height="795" alt="Screenshot 2025-12-06 093635" src="https://github.com/user-attachments/assets/af3c3f61-cbff-4b27-b980-18504226f324" />
 
 
 
@@ -17,7 +18,6 @@ If you have a Python script or executable, you are 90% of the way to the Microso
 
 * **Visual Manifest Editor:** Forget about hand-editing AppxManifest.xml. Input your Publisher Name, Version, and Identity in a clean GUI.  
 * **One-Click Packaging:** Instantly converts your Python .exe or entire project directories (great for PyInstaller \--onedir builds) into a deployable .msix.  
-* **Auto-Signing Pipeline:** Automatically generates a self-signed certificate and digitally signs your package in one step (requires Windows SDK).  
 * **Smart Asset Generator:** Upload a single high-quality logo, and the app automatically resizes it to the required Store formats (44x44, 150x150, and Store Logo).  
 * **Live Diagnostics:** View real-time build logs to troubleshoot MakeAppx or SignTool errors instantly without leaving the app.
 
@@ -28,7 +28,6 @@ If you have a Python script or executable, you are 90% of the way to the Microso
 | :---- | :---- | :---- |
 | **Manifest Creation** | Hand-edit complex XML files | **Visual Form Fill** |
 | **Image Handling** | Manually resize & rename 3+ PNGs | **Auto-Resize from 1 Image** |
-| **Signing** | 3-step PowerShell command process | **1-Click Auto-Sign** |
 | **Learning Curve** | High (Requires Docs & Syntax) | **Zero** |
 
 
