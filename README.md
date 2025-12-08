@@ -30,6 +30,8 @@ If you have a Python script or executable, you are 90% of the way to the Microso
 | **Image Handling** | Manually resize & rename 3+ PNGs | **Auto-Resize from 1 Image** |
 | **Learning Curve** | High (Requires Docs & Syntax) | **Zero** |
 
+[![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](ms-windows-store://pdp/?productid=9NPTJBR927R3)
+
 
 🤝 Contributing
 Found a bug? Open an Issue. Want a feature? Vote on existing issues or create a PR!
